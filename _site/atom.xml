@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Yunus YILMAZ</title>
+ <link href="ynsy.github.io/atom.xml" rel="self"/>
+ <link href="ynsy.github.io"/>
+ <updated>2015-11-19T23:38:06+02:00</updated>
+ <id>ynsy.github.io</id>
+ <author>
+   <name>Yunus YILMAZ</name>
+   <email>ynsy@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Deneme</title>
+   <link href="ynsy.github.io/blog/2013/11/21/Deneme.html"/>
+   <updated>2013-11-21T00:00:00+02:00</updated>
+   <id>burakoner.github.io/blog/2013/11/21/Deneme</id>
+   <content type="html">
+</content>
+ </entry> 
+ 
+</feed>
